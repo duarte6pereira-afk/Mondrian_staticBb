@@ -1,3 +1,4 @@
-# Título
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut euismod convallis magna ut pulvinar. Nulla iaculis, metus in semper vestibulum, lorem quam fringilla tellus, eu varius leo dui ac neque. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed faucibus ultrices ante, ut suscipit est euismod ut. Duis sit amet dictum turpis. Fusce non turpis porta nisi iaculis eleifend. Donec eget lobortis risus. Proin molestie tincidunt elit. Donec a enim ac neque tristique molestie. Sed nibh massa, dignissim at ipsum non, volutpat aliquam erat. Sed tincidunt quis urna a semper. Phasellus leo orci, imperdiet et ullamcorper non, finibus eu nunc. Duis vel ligula ac orci tincidunt aliquam. Suspendisse potenti. Sed congue lectus at aliquet cursus. 
+Mondrian_staticB
+
+Nesta segunda versão, quis dar algum movimento à composição sem alterar demasiado o seu aspeto original. As linhas apresentam uma ligeira vibração e o bloco vermelho vai mudando subtilmente de tonalidade. Desta forma, a obra deixa de ser totalmente estática e ganha um movimento discreto, mantendo a estrutura e as características principais da composição de Mondrian.
